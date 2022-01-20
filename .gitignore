@@ -2,7 +2,10 @@
 
 # dependencies
 travel_app/node_modules
-travel_app//.pnp
+travel_app/.pnp
+travel_app_jsm
+package-lock.json
+package.json
 .pnp.js
 
 # testing
